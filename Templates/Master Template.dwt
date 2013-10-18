@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="166" height="94">
+  <tr>
+    <td colspan="2">Primary Navigation</td>
+  </tr>
+  <tr>
+    <td width="75" height="23">secondary navigation </td>
+    <td width="79">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">primary navigation</td>
+  </tr>
+</table>
+</body>
+</html>
