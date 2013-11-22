@@ -1,0 +1,30 @@
+.doctor-who-content img
+
+{ float: left;
+margin-right: 35px;
+margin-bottom: 35px;
+}
+body
+{
+	font: 12px 'Droid Sans', sans-serif;
+	background-color: #dadee3;
+}
+
+.doctor-who-content p {
+	padding-right: 35px;
+	line-height: 30px;
+}
+
+table { border-collapse: collapse; }
+
+td { 
+background-color: #a0acb9;
+text-align: left;
+vertical-align: top;
+ }
+.wrapper {
+	float: left;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+}

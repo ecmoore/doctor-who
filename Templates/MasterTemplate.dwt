@@ -10,116 +10,119 @@
                 <!-- TemplateParam name="The Doctors Secondary Nav" type="boolean" value="false" -->
                 <!-- TemplateParam name="The Companions Secondary Nav" type="boolean" value="false" -->
                 <!-- TemplateParam name="The Villains Secondary Nav" type="boolean" value="false" -->
+        <link href="../styles.css" rel="stylesheet" type="text/css">
         </head>
         
         <body>
+        <div class="wrapper">
+          <table>
+            <tr>
+              <td colspan="2"><a href="../website/index.html">Home</a> <a href="../website/the doctors/index.html">The Doctors</a> <a href="../website/companions.html/index.html">The Companions</a> <a href="../website/villains.html/index.html">The Villains</a></td>
+              </tr>
+            <tr>
+              <td colspan="2"><!-- TemplateBeginEditable name="Banners" --><img src="../website/images/banner-home.jpg" width="950" height="150"><!-- TemplateEndEditable --></td>
+              </tr>
+            <tr>
+              <td><!-- TemplateBeginIf cond="_document['The Doctors Secondary Nav']" -->
                 <table>
-                        <tr>
-                                <td colspan="2"><a href="../website/index.html">Home</a> <a href="../website/the doctors/index.html">The Doctors</a> <a href="../website/companions.html/index.html">The Companions</a> <a href="../website/villains.html/index.html">The Villains</a></td>
+                  <tr>
+                    <td><a href="../website/the doctors/the-first-doctor.html">The First Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-second-doctor.html">The Second Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-third-doctor.html">The Third Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-fourth-doctor.html">The Fourth Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-fifth-doctor.html">The Fifth Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-sixth-doctor.html">The Sixth Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-seventh-doctor.html">The Seventh Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-eighth-doctor.html">The Eighth Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-ninth-doctor.html">The Ninth Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-tenth-doctor.html">The Tenth Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-eleventh-doctor.html">The Eleventh Doctor</a></td>
+                    </tr>
+                  <tr>
+                    <td><a href="../website/the doctors/the-twelfth-doctor-.html">The Twelfth Doctor</a></td>
+                    </tr>
+                  </table>
+                <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions Secondary Nav']" -->
+                <table>
+                    <tbody>
+                      <tr>
+                        <td><a href="../website/companions.html/Rose-Tyler.html">Rose Tyler</a></td>
                         </tr>
-                        <tr>
-                                <td colspan="2"><!-- TemplateBeginEditable name="Banners" --><img src="../website/images/banner-home.jpg" width="950" height="150"><!-- TemplateEndEditable --></td>
+                      <tr>
+                        <td><a href="../website/companions.html/Martha-jones.html">Martha Jones</a></td>
                         </tr>
-                        <tr>
-                                <td><!-- TemplateBeginIf cond="_document['The Doctors Secondary Nav']" -->
-                                        <table>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-first-doctor.html">The First Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-second-doctor.html">The Second Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-third-doctor.html">The Third Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-fourth-doctor.html">The Fourth Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-fifth-doctor.html">The Fifth Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-sixth-doctor.html">The Sixth Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-seventh-doctor.html">The Seventh Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-eighth-doctor.html">The Eighth Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-ninth-doctor.html">The Ninth Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-tenth-doctor.html">The Tenth Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-eleventh-doctor.html">The Eleventh Doctor</a></td>
-                                                </tr>
-                                                <tr>
-                                                        <td><a href="../website/the doctors/the-twelfth-doctor-.html">The Twelfth Doctor</a></td>
-                                                </tr>
-                                        </table>
-                                        <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions Secondary Nav']" -->
-                                        <table>
-                                                <tbody>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/Rose-Tyler.html">Rose Tyler</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/Martha-jones.html">Martha Jones</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/jack-harkness.html">Jack Harkness</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/lady-christina-de-souza.html">Lady Christina de Souza</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/amy-pond.html">Amy Pond</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/rory-williams.html">Rory Williams</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/river-song.html">River Song</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/companions.html/clara-oswald.html">Clara Oswald</a></td>
-                                                        </tr>
-                                                </tbody>
-                                        </table>
-                                        <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Villains Secondary Nav']" -->
-                                        <table>
-                                                <tbody>
-                                                        <tr>
-                                                                <td><a href="../website/villains.html/Daleks.html">Daleks</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/villains.html/Cybermen.html">Cybermen</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/villains.html/The-master.html">The Master</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/villains.html/Lady-Cassandra.html">Lady Cassandra</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/villains.html/Davros.html">Davros</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                                <td><a href="../website/villains.html/Weeping-Angels.html">Weeping Angels</a></td>
-                                                        </tr>
-                                                </tbody>
-                                        </table>
-                                        <!-- TemplateEndIf --></td>
-                                <td><!-- TemplateBeginEditable name="Content" -->
-							<h1>Doctor Who Website
-                                	</h1>
-                             	  	<p>Doctor Who is a British science-fiction television programme  produced by the BBC. The programme depicts the adventures of a Time Lord—a  time-travelling humanoid alien known as the Doctor. He explores the universe in  his TARDIS (acronym: Time and Relative Dimension in Space), a sentient  time-travelling space ship. Its exterior appears as a blue British police box,  which was a common sight in Britain  in 1963 when the series first aired. Along with a succession of companions, the  Doctor faces a variety of foes while working to save civilisations, help  ordinary people, and right wrongs.</p>
-							<p>The show has received recognition as one of Britain's finest  television programmes, winning the 2006 British Academy Television Award for  Best Drama Series and five consecutive (2005–2010) awards at the National  Television Awards during Russell T Davies's tenure as executive producer.[2][3]  In 2011, Matt Smith became the first Doctor to be nominated for a BAFTA  Television Award for Best Actor. In 2013, the Peabody Awards honoured Doctor  Who with an Institutional Peabody &quot;for evolving with technology and the times  like nothing else in the known television universe.&quot;[4] The programme is  listed in Guinness World Records as the longest-running science fiction  television show in the world[5] and as the &quot;most successful&quot; science  fiction series of all time—based on its over-all broadcast ratings, DVD and  book sales, and iTunes traffic.[6] During its original run, it was recognised  for its imaginative stories, creative low-budget special effects, and  pioneering use of electronic music (originally produced by the BBC Radiophonic  Workshop).</p>
-  						<!-- TemplateEndEditable --></td>
+                      <tr>
+                        <td><a href="../website/companions.html/jack-harkness.html">Jack Harkness</a></td>
                         </tr>
+                      <tr>
+                        <td><a href="../website/companions.html/lady-christina-de-souza.html">Lady Christina de Souza</a></td>
+                        </tr>
+                      <tr>
+                        <td><a href="../website/companions.html/amy-pond.html">Amy Pond</a></td>
+                        </tr>
+                      <tr>
+                        <td><a href="../website/companions.html/rory-williams.html">Rory Williams</a></td>
+                        </tr>
+                      <tr>
+                        <td><a href="../website/companions.html/river-song.html">River Song</a></td>
+                        </tr>
+                      <tr>
+                        <td><a href="../website/companions.html/clara-oswald.html">Clara Oswald</a></td>
+                        </tr>
+                      </tbody>
                 </table>
+                <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Villains Secondary Nav']" -->
+                <table>
+                      <tbody>
+                        <tr>
+                          <td><a href="../website/villains.html/Daleks.html">Daleks</a></td>
+                          </tr>
+                        <tr>
+                          <td><a href="../website/villains.html/Cybermen.html">Cybermen</a></td>
+                          </tr>
+                        <tr>
+                          <td><a href="../website/villains.html/The-master.html">The Master</a></td>
+                          </tr>
+                        <tr>
+                          <td><a href="../website/villains.html/Lady-Cassandra.html">Lady Cassandra</a></td>
+                          </tr>
+                        <tr>
+                          <td><a href="../website/villains.html/Davros.html">Davros</a></td>
+                          </tr>
+                        <tr>
+                          <td><a href="../website/villains.html/Weeping-Angels.html">Weeping Angels</a></td>
+                          </tr>
+                        </tbody>
+                </table>
+                <!-- TemplateEndIf --></td>
+              <td><div class="doctor-who-content"><!-- TemplateBeginEditable name="Content" -->
+              <h1>Doctor Who Website
+                  </h1>
+                <p>Doctor Who is a British science-fiction television programme  produced by the BBC. The programme depicts the adventures of a Time Lord—a  time-travelling humanoid alien known as the Doctor. He explores the universe in  his TARDIS (acronym: Time and Relative Dimension in Space), a sentient  time-travelling space ship. Its exterior appears as a blue British police box,  which was a common sight in Britain  in 1963 when the series first aired. Along with a succession of companions, the  Doctor faces a variety of foes while working to save civilisations, help  ordinary people, and right wrongs.</p>
+              <p>The show has received recognition as one of Britain's finest  television programmes, winning the 2006 British Academy Television Award for  Best Drama Series and five consecutive (2005–2010) awards at the National  Television Awards during Russell T Davies's tenure as executive producer.[2][3]  In 2011, Matt Smith became the first Doctor to be nominated for a BAFTA  Television Award for Best Actor. In 2013, the Peabody Awards honoured Doctor  Who with an Institutional Peabody &quot;for evolving with technology and the times  like nothing else in the known television universe.&quot;[4] The programme is  listed in Guinness World Records as the longest-running science fiction  television show in the world[5] and as the &quot;most successful&quot; science  fiction series of all time—based on its over-all broadcast ratings, DVD and  book sales, and iTunes traffic.[6] During its original run, it was recognised  for its imaginative stories, creative low-budget special effects, and  pioneering use of electronic music (originally produced by the BBC Radiophonic  Workshop).</p>
+              <!-- TemplateEndEditable --></div></td>
+              </tr>
+            </table>
+        </div>
         </body>
 </html>
